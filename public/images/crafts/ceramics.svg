@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-hidden="true">
+  <rect width="400" height="300" fill="#f2ead9" />
+  <ellipse cx="200" cy="255" rx="90" ry="14" fill="#ded2b8" opacity="0.6" />
+  <path
+    d="M140 110
+       C130 150, 130 190, 150 220
+       C165 245, 235 245, 250 220
+       C270 190, 270 150, 260 110
+       C255 85, 230 70, 200 70
+       C170 70, 145 85, 140 110 Z"
+    fill="#e8dfc8"
+    stroke="#8a7c5c"
+    stroke-width="3"
+  />
+  <ellipse cx="200" cy="108" rx="36" ry="10" fill="#d8c9a3" stroke="#8a7c5c" stroke-width="2" />
+  <path d="M165 140 C185 150, 215 150, 235 140" stroke="#8a7c5c" stroke-width="2" fill="none" opacity="0.6" />
+  <path d="M158 175 C182 188, 218 188, 242 175" stroke="#8a7c5c" stroke-width="2" fill="none" opacity="0.5" />
+</svg>

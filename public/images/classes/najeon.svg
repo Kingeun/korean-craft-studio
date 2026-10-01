@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title">
+  <title id="title">자개 조각이 박힌 나전칠기 소품 일러스트</title>
+  <rect width="400" height="300" fill="#2b2420"/>
+  <rect x="100" y="80" width="200" height="140" rx="10" fill="#1c1713" stroke="#8a6a46" stroke-width="4"/>
+  <polygon points="200,110 215,140 250,145 224,168 231,202 200,185 169,202 176,168 150,145 185,140" fill="#e8e3d6" opacity="0.9"/>
+  <polygon points="150,170 158,184 174,186 162,196 165,212 150,204 135,212 138,196 126,186 142,184" fill="#cfe0d6" opacity="0.85"/>
+  <polygon points="250,170 258,184 274,186 262,196 265,212 250,204 235,212 238,196 226,186 242,184" fill="#e0c9d6" opacity="0.85"/>
+</svg>

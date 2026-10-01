@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title">
+  <title id="title">알록달록한 조각 천으로 만든 보자기 일러스트</title>
+  <rect width="400" height="300" fill="#faf6ef"/>
+  <g transform="translate(60,60)">
+    <rect x="0" y="0" width="70" height="70" fill="#c97b63"/>
+    <rect x="70" y="0" width="70" height="70" fill="#e8c35c"/>
+    <rect x="140" y="0" width="70" height="70" fill="#7f9f7a"/>
+    <rect x="210" y="0" width="70" height="70" fill="#6b84a8"/>
+    <rect x="0" y="70" width="70" height="70" fill="#e8c35c"/>
+    <rect x="70" y="70" width="70" height="70" fill="#6b84a8"/>
+    <rect x="140" y="70" width="70" height="70" fill="#c97b63"/>
+    <rect x="210" y="70" width="70" height="70" fill="#7f9f7a"/>
+    <rect x="0" y="140" width="70" height="70" fill="#7f9f7a"/>
+    <rect x="70" y="140" width="70" height="70" fill="#c97b63"/>
+    <rect x="140" y="140" width="70" height="70" fill="#6b84a8"/>
+    <rect x="210" y="140" width="70" height="70" fill="#e8c35c"/>
+  </g>
+  <rect x="55" y="55" width="290" height="220" fill="none" stroke="#2b2420" stroke-width="4"/>
+</svg>

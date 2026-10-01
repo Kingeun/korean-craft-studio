@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-hidden="true">
+  <rect width="400" height="300" fill="#f2ead9" />
+  <rect x="90" y="120" width="220" height="110" rx="6" fill="#2b2420" stroke="#1c1713" stroke-width="3" />
+  <rect x="104" y="134" width="192" height="82" rx="4" fill="#3a2f27" />
+  <path
+    d="M150 175 C160 160, 175 160, 180 175 C185 160, 200 160, 205 178 C210 160, 225 162, 228 178 C233 164, 248 165, 252 180"
+    fill="none"
+    stroke="#e3c66b"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+  <circle cx="165" cy="190" r="5" fill="#f4e3a1" opacity="0.9" />
+  <circle cx="200" cy="195" r="4" fill="#f4e3a1" opacity="0.8" />
+  <circle cx="235" cy="188" r="5" fill="#f4e3a1" opacity="0.9" />
+  <circle cx="255" cy="200" r="3.5" fill="#f4e3a1" opacity="0.7" />
+</svg>

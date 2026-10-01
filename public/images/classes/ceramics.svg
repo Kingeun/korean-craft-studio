@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title">
+  <title id="title">물레 위에서 도자기를 빚는 손 모양 일러스트</title>
+  <rect width="400" height="300" fill="#f2ead9"/>
+  <ellipse cx="200" cy="230" rx="120" ry="16" fill="#ded2b8"/>
+  <rect x="150" y="200" width="100" height="18" rx="4" fill="#c9b78e"/>
+  <ellipse cx="200" cy="200" rx="50" ry="14" fill="#8a6a46"/>
+  <path d="M165 200 C160 160 170 110 200 90 C230 110 240 160 235 200 Z" fill="#b08a5f"/>
+  <ellipse cx="200" cy="92" rx="22" ry="8" fill="#8a6a46"/>
+  <path d="M120 150 C140 130 160 120 175 118" stroke="#2b2420" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M280 150 C260 130 240 120 225 118" stroke="#2b2420" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>
